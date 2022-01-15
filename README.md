@@ -1,10 +1,29 @@
-# insta
+# Simple TODO List in Flutter
 
-A new Flutter project.
+Simple TODO list in flutter , just to remember the basics of the framework.
+
+- Data persistence with `path_provider`
+- `ListView` with `Dismissible` Items to remove from list.
+
+### Widgets
+
+- Dismissible
+- InputText
+- Expanded
+- RaisedButton
+- RefreshIndicator
+- ListView
+- Icon
+- Text
+- Column
+- Container
+- Row
+
+## Screenshots
+
+![Screenshot 01](./es03.gif)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
